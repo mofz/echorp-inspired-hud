@@ -2,9 +2,9 @@ fx_version 'cerulean'
 game 'gta5'
 use_experimental_fxv2_oal 'yes'
 name 'echo_interface'
-description 'EchoRP UI Resource'
+description 'EchoRP Inspired UI Resource'
 version '1.0.0'
-author 'Flawws'
+author 'Axo'
 
 lua54 'yes'
 
@@ -38,4 +38,5 @@ files {
 data_file "SCALEFORM_DLC_FILE" "stream/*.gfx"
 
 provide 'erp_notifications'
+
 provide 'erp_prompts'
